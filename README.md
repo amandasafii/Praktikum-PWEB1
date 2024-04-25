@@ -169,6 +169,16 @@ Output :
 
 ![center image out](https://github.com/amandasafii/Praktikum-PWEB1/assets/167949146/3efc2cc7-5933-4ff9-89c4-a54453a1f119)
 
+## Java Script
+
+Java Script merupakan bahasa pemrograman yang digunakan untuk membuat suatu program lebih interaktif saat dijalankan. Berikut cara membuat sebuah program menggunakan Java Script supaya dapat memunculkan hasil ketika kursor berada diatasnya :
+
+![js in 1](https://github.com/amandasafii/Praktikum-PWEB1/assets/167949146/874eb4d7-c18f-48b3-965d-dbce35439dcd)
+
+![js in 2](https://github.com/amandasafii/Praktikum-PWEB1/assets/167949146/d3f2c8e6-d34f-4b89-984a-4de87b285b8f)
+
+
+
 
 
 
