@@ -199,7 +199,8 @@ Java Script merupakan bahasa pemrograman yang digunakan untuk membuat suatu prog
 
 Output :
 
-![js out](https://github.com/amandasafii/Praktikum-PWEB1/assets/167949146/bd2b64aa-8f9d-403b-96b4-fdb7f4a75884)
+![js out](https://github.com/amandasafii/Praktikum-PWEB1/assets/167949146/7513be6c-6fa8-4aa9-979e-1470e9893cab)
+
 
 
 
