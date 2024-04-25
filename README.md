@@ -135,6 +135,48 @@ Output :
 
 ![text box out](https://github.com/amandasafii/Praktikum-PWEB1/assets/167949146/ea5f9e22-f6be-4145-a734-3a7f1ca6714e)
 
+### **Overflow**
+
+Overflow merupakan batas untuk menampilkan konten yang terlalu besar untuk dimasukkan pada sebuah halaman. Berikut merupakan cara untuk membuat sebuah overflow :
+
+![overflow in](https://github.com/amandasafii/Praktikum-PWEB1/assets/167949146/6de9c95e-3620-40dd-ba00-4432369a0cae)
+
+-Langkah awal yaitu mendeklarasikan HTML.
+
+-Membuat style din dalam head lalu memberikan div di dalam style. Pada div dicantumkan overflow:auto supaya dapat menambahkan scrollbar secara vertikal apabila konten terlalu besar ke luar. Dalam div juga kita bisa mengatur background-color, width, height serta border.
+
+-Di dalam body html kita bisa memanggil div yang sebelumnya kita buat lalu menuliskan teks pada script.
+
+Output :
+
+![overflow out](https://github.com/amandasafii/Praktikum-PWEB1/assets/167949146/6d0ce843-d59c-4253-80f9-55714d9ec311)
+
+### **Center Image**
+
+Dalam CSS kita bisa mengatur gambar yang kita inputkan menjadi di tengah. Berikut merupakan langkah langkah untuk menempatkan gambar di tengah pada CSS :
+
+![center image in](https://github.com/amandasafii/Praktikum-PWEB1/assets/167949146/e639bfb0-fd71-4c14-9a5d-ff4202d76c80)
+
+-Mendeklarasikan HTML.
+
+-Buat style di dalam head, di dalam style tambahkan style dengan nama img lalu atur display dan margin left right nya.
+
+-Setelah itu, di dalam body kita bisa membuat judul terlebih dahulu.
+
+-Panggil style yang telah kita atur dengan format img.src lalu masukkan nama gambar atau link gambar yang diambil dari browser. Disini pula kita bisa mengatur besar gambar tersebut dengan satuan px.
+
+Output :
+
+![center image out](https://github.com/amandasafii/Praktikum-PWEB1/assets/167949146/3efc2cc7-5933-4ff9-89c4-a54453a1f119)
+
+
+
+
+-
+
+
+
+
 
 
 
