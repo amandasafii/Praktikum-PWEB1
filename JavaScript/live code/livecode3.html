@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Document</title>
+    <style>
+        table,
+        th,
+        td {
+          border: 1px solid black}
+      tr{
+         background-color: cyan;
+      }
+      th{
+        color: chocolate
+      }
+        .icon{
+          width: 50px;
+          height: auto;
+        }
+        tr:nth-child(odd) {
+            text-align: left;
+        }
+         tr:nth-child(even) {
+            text-align: right;
+        }
+         tr:nth-child(2) {
+            text-align: center;
+        }
+    </style>
+  </head>
+  <body>
+    <h1>Latihan Tabel </h1>
+    <table style="width: 50%">
+      <tr>
+        <th>Materi</th>
+        <th>Sub Materi</th>
+        <th>Icon</th>
+      </tr>
+      <tr>
+        <td>Materi 1</td>
+        <td type="text-align">HTML</td>
+        <td><img src="https://cdn-icons-png.flaticon.com/512/1532/1532556.png" class="icon"
+             id="html" onclick="ganti()" ondblclick="ganti()"></td>
+      </tr>
+      <tr>
+        <td>Materi 2</td>
+        <td>CSS</td>
+        <td><img src="https://www.softorks.com/Images/css.jpg" class="icon"></td>
+      </tr>
+      <tr>
+        <td>Materi 3</td>
+        <td>JavaScript</td>
+        <td><img src="https://www.global-itech.com/wp-content/uploads/2020/04/javaScriptIcon-768x870.jpeg" class="icon"></td>
+      </tr>
+    </table>
+    <div>
+        <script>
+            function myFunction() {
+              document.getElementById("demo").innerHTML = <img scr="https://iconape.com/wp-content/png_logo_vector/html-5-2.png">;
+            }
+            </script>
+    </div>
+    
+    
+  </body>
+</html>

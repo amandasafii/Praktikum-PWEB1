@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Document</title>
+    <style>
+        table,
+        th,
+        td {
+          border: 1px solid black}
+      tr{
+         background-color: cyan;
+      }
+      th{
+        color: chocolate
+      }
+        .icon{
+          width: 50px;
+          height: auto;
+        }
+        tr:nth-child(odd) {
+            text-align: left;
+        }
+         tr:nth-child(even) {
+            text-align: right;
+        }
+         tr:nth-child(2) {
+            text-align: center;
+        }
+    </style>
+  </head>
+  <body>
+    <h1>Challenge 1 - CSS</h1>
+    <table style="width: 50%">
+      <tr>
+        <th>Materi</th>
+        <th>Sub Materi</th>
+        <th>Icon</th>
+      </tr>
+      <tr>
+        <td>Materi 1</td>
+        <td type="text-align">HTML</td>
+        <td><img src="html.png" class="icon"></td>
+      </tr>
+      <tr>
+        <td>Materi 2</td>
+        <td>CSS</td>
+        <td><img src="CSS.png" class="icon"></td>
+      </tr>
+      <tr>
+        <td>Materi 3</td>
+        <td>JavaScript</td>
+        <td><img src="JavaScript-logo.png" class="icon"></td>
+      </tr>
+    </table>
+    <h3>Keterangan:</h3>
+    <ol type="1.">
+      <li>
+        Buatlah Selector berjenis class dengan nama <b>.icon</b> untuk meresize
+        gambar pada kolom Icon
+      </li>
+      <li>Warna backgorund adalah <b>cyan</b></li>
+      <li>Warna header tabel adalah <b>chocolate</b></li>
+      <li>Tabel Header rata tengah</li>
+      <li>
+        Baris ganjil rata kiri, baris genap rata kanan kecuali pada kolom Icon,
+      </li>
+    </ol>
+  </body>
+</html>
