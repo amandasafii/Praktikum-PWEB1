@@ -10,7 +10,7 @@ Berkenalan dengan HTML,; untuk membuka sebuah file HTML menggunakan tag
 dengan mengetik tanda "!" lalu menekan "enter". Maka secara langsung
 VS Code akan membuka markah pembuka HTML hingga penutup HTML.
 
-## **Basic HTML**
+### **Basic HTML**
 
 Setelah membuat markah dalam HTML kita dapat membuat judul
 atau paragraf. Judul dan paragraf harus diletakkan setelah
@@ -28,7 +28,7 @@ Output h1-h7
     
 ![html out](https://github.com/amandasafii/Praktikum-PWEB1/assets/167949146/2fbd0b6d-e70d-4f6a-a271-a488b69c9229)
 
-## **Mewarnai Font**
+### **Mewarnai Font**
 
 Ketika membuat sebuah paragraf, kita dapat mewarnai font yang kita pakai dengan cara dibawah ini :
 
@@ -41,7 +41,7 @@ Output :
 
 ![color out](https://github.com/amandasafii/Praktikum-PWEB1/assets/167949146/2a64780e-ef78-4d97-93a8-805cc9d760eb)
 
-## **Tabel HTML**
+### **Tabel HTML**
 
 Input untuk membuat tabel pada html :
 
@@ -60,7 +60,7 @@ Output tabel :
 
 ![table out](https://github.com/amandasafii/Praktikum-PWEB1/assets/167949146/99f9cc0b-4326-4f7e-9828-84b91112f7ba)
 
-## **List**
+### **List**
 
 List memuat daftar dari suatu data atau tabel yang dituliskan
 sebagai daftar menurun. List dapat dibuat dalam html menggunakan format sebagai berikut :
@@ -77,7 +77,7 @@ Output :
 
 ![list out](https://github.com/amandasafii/Praktikum-PWEB1/assets/167949146/3cd2bfee-18bf-47c4-9d03-72ae6084a5b0)
 
-## **Membuat List dengan HTML**
+### **Membuat List dengan HTML**
 
 Berikut merupakan cara untuk membuat list jadwal piket menggunakan ordered list/ol dan unordered list/il :
 
@@ -92,6 +92,56 @@ Berikut merupakan cara untuk membuat list jadwal piket menggunakan ordered list/
 Output :
 
 ![color ol ul out](https://github.com/amandasafii/Praktikum-PWEB1/assets/167949146/4a01aca3-1288-4536-ab39-0c26af23459e)
+
+## **CSS**
+
+CSS merupakan kependekan dari Cascading Style Sheets. Tampilan dan format halaman pada website
+bergantung pada CSS. Pada CSS juga kita dapat mengatur ukuran font, warna font, dan latar belakang
+pada halaman web.Biasanya CSS digunakan berjalan bersama dengan HTML. CSS berguna dalam pembangunann web
+menggunakan HTML sebab apabila menggunakan CSS kita cukup menulis satu kode untuk diterapkan pada elemen
+HTML yang bisa diterapkan ke semua halaman. Ini bisa mempersingkat waktu karena kita tidak perlu menuliskan
+satu satu elemen pada setiap halaman.
+
+### **Background Image**
+Background image digunakan untuk merubah tampilan background web sesuai kebutuhan kk=ita.Berikut merupakan cara untuk menggunakan CSS mengubah tampilan background dengan gambar :
+
+![bg image in](https://github.com/amandasafii/Praktikum-PWEB1/assets/167949146/2d83df9a-bd9c-40f1-a291-8dd47e4c496e)
+
+-Mendeklarasikan HTML terlebih dahulu.
+
+-Kemudian di dalam head buat style terlebih dahulu dengan mengetikkan "background-image" maka setelah menekan enter akan muncul kalimat "url" dan masukkan image addres yang telah di copy dari browser, atau bisa juga dari folder internal kita.
+
+-Pada body kita bisa menambahkan judul atau pargraf yang akan diberikan background image.
+
+Output :
+
+![bg image in](https://github.com/amandasafii/Praktikum-PWEB1/assets/167949146/335bc3ef-25f9-42f5-96de-cd14bd26f40d)
+
+### **Text Box**
+
+Text box pada CSS merupakan pemrosesan dari setiap elemen pada halaman web di dalam box. Berikut merupakan cara menggunakan text box :
+
+![text box in](https://github.com/amandasafii/Praktikum-PWEB1/assets/167949146/37400f96-1c02-45dc-b106-f5743147dc11)
+
+-Deklarasikan terlebih dahulu file HTML.
+
+-Buat style lalu masukkan div didalamnya, div berisi "background-color" untuk memberikan warna pada background. 
+
+-Kita bisa mengatur besar box menggunakan "width", lalu untuk mengatur ketebalan sisi box, kita bisa menggunakan "border".
+
+-Gunakan "margin auto" supaya besar box mengikuti paragraf, bukan mengikuti besar layar. style untuk text menggunakan "text align".
+
+Output :
+
+![text box out](https://github.com/amandasafii/Praktikum-PWEB1/assets/167949146/ea5f9e22-f6be-4145-a734-3a7f1ca6714e)
+
+
+
+
+
+
+
+
 
 
 
