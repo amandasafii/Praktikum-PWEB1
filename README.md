@@ -1,5 +1,5 @@
 # Praktikum-PWEB1
-## **HTML**
+## **1.HTML**
 
 HTML merupakan kependekan dari Hyper Text Markup Language. HTMl biasanya
 digunakan untuk membangun/merancang sebuah web. Dalam perumpamaan HTML adalah
@@ -10,7 +10,7 @@ Berkenalan dengan HTML,; untuk membuka sebuah file HTML menggunakan tag
 dengan mengetik tanda "!" lalu menekan "enter". Maka secara langsung
 VS Code akan membuka markah pembuka HTML hingga penutup HTML.
 
-### **Basic HTML**
+### **a.Basic HTML**
 
 Setelah membuat markah dalam HTML kita dapat membuat judul
 atau paragraf. Judul dan paragraf harus diletakkan setelah
@@ -28,7 +28,7 @@ Output h1-h7
     
 ![html out](https://github.com/amandasafii/Praktikum-PWEB1/assets/167949146/2fbd0b6d-e70d-4f6a-a271-a488b69c9229)
 
-### **Mewarnai Font**
+### **b.Mewarnai Font**
 
 Ketika membuat sebuah paragraf, kita dapat mewarnai font yang kita pakai dengan cara dibawah ini :
 
@@ -41,7 +41,7 @@ Output :
 
 ![color out](https://github.com/amandasafii/Praktikum-PWEB1/assets/167949146/2a64780e-ef78-4d97-93a8-805cc9d760eb)
 
-### **Tabel HTML**
+### **c.Tabel HTML**
 
 Input untuk membuat tabel pada html :
 
@@ -60,7 +60,7 @@ Output tabel :
 
 ![table out](https://github.com/amandasafii/Praktikum-PWEB1/assets/167949146/99f9cc0b-4326-4f7e-9828-84b91112f7ba)
 
-### **List**
+### **d.List**
 
 List memuat daftar dari suatu data atau tabel yang dituliskan
 sebagai daftar menurun. List dapat dibuat dalam html menggunakan format sebagai berikut :
@@ -77,7 +77,7 @@ Output :
 
 ![list out](https://github.com/amandasafii/Praktikum-PWEB1/assets/167949146/3cd2bfee-18bf-47c4-9d03-72ae6084a5b0)
 
-### **Membuat List dengan HTML**
+### **e.Membuat List dengan HTML**
 
 Berikut merupakan cara untuk membuat list jadwal piket menggunakan ordered list/ol dan unordered list/il :
 
@@ -93,7 +93,7 @@ Output :
 
 ![color ol ul out](https://github.com/amandasafii/Praktikum-PWEB1/assets/167949146/4a01aca3-1288-4536-ab39-0c26af23459e)
 
-## **CSS**
+## **2.CSS**
 
 CSS merupakan kependekan dari Cascading Style Sheets. Tampilan dan format halaman pada website
 bergantung pada CSS. Pada CSS juga kita dapat mengatur ukuran font, warna font, dan latar belakang
@@ -102,7 +102,7 @@ menggunakan HTML sebab apabila menggunakan CSS kita cukup menulis satu kode untu
 HTML yang bisa diterapkan ke semua halaman. Ini bisa mempersingkat waktu karena kita tidak perlu menuliskan
 satu satu elemen pada setiap halaman.
 
-### **Background Image**
+### **a.Background Image**
 Background image digunakan untuk merubah tampilan background web sesuai kebutuhan kk=ita.Berikut merupakan cara untuk menggunakan CSS mengubah tampilan background dengan gambar :
 
 ![bg image in](https://github.com/amandasafii/Praktikum-PWEB1/assets/167949146/2d83df9a-bd9c-40f1-a291-8dd47e4c496e)
@@ -117,7 +117,7 @@ Output :
 
 ![bg image in](https://github.com/amandasafii/Praktikum-PWEB1/assets/167949146/335bc3ef-25f9-42f5-96de-cd14bd26f40d)
 
-### **Text Box**
+### **b.Text Box**
 
 Text box pada CSS merupakan pemrosesan dari setiap elemen pada halaman web di dalam box. Berikut merupakan cara menggunakan text box :
 
@@ -135,7 +135,7 @@ Output :
 
 ![text box out](https://github.com/amandasafii/Praktikum-PWEB1/assets/167949146/ea5f9e22-f6be-4145-a734-3a7f1ca6714e)
 
-### **Overflow**
+### **c.Overflow**
 
 Overflow merupakan batas untuk menampilkan konten yang terlalu besar untuk dimasukkan pada sebuah halaman. Berikut merupakan cara untuk membuat sebuah overflow :
 
@@ -151,7 +151,7 @@ Output :
 
 ![overflow out](https://github.com/amandasafii/Praktikum-PWEB1/assets/167949146/6d0ce843-d59c-4253-80f9-55714d9ec311)
 
-### **Center Image**
+### **d.Center Image**
 
 Dalam CSS kita bisa mengatur gambar yang kita inputkan menjadi di tengah. Berikut merupakan langkah langkah untuk menempatkan gambar di tengah pada CSS :
 
@@ -169,13 +169,37 @@ Output :
 
 ![center image out](https://github.com/amandasafii/Praktikum-PWEB1/assets/167949146/3efc2cc7-5933-4ff9-89c4-a54453a1f119)
 
-## Java Script
+## 3.Java Script
 
 Java Script merupakan bahasa pemrograman yang digunakan untuk membuat suatu program lebih interaktif saat dijalankan. Berikut cara membuat sebuah program menggunakan Java Script supaya dapat memunculkan hasil ketika kursor berada diatasnya :
 
 ![js in 1](https://github.com/amandasafii/Praktikum-PWEB1/assets/167949146/874eb4d7-c18f-48b3-965d-dbce35439dcd)
 
 ![js in 2](https://github.com/amandasafii/Praktikum-PWEB1/assets/167949146/d3f2c8e6-d34f-4b89-984a-4de87b285b8f)
+
+-Deklarasikan HTML terlebih dahulu.
+
+-Buat judul di dalam body html
+
+-Pada body juga setelah membuat judul, buat div lalu masukkan tabel di dalamnya. tr digunakan untuk membuat baris, td digunakan untuk membuat kolom, dan th digunakan untuk membuat header tabel, buatlah tabel dan kolom sesuai kebutuhan.
+
+-Buat id untuk kolom yang akan diberikan fungsi, pada gambar diatas untuk nilai a,b,c dan hasil diberikan id supaya dapat dipanggil dalam fungsi untuk dilakukan proses perhitungan. Rumus yang digunakan pada fungsi ini adalah a + b - c yang hasilnya akan ditampilkan pada id hasil.
+
+-Berikan style onmouseover pada id hasil supaya ketika kursor tidak berada di atas id hasil maka nilai hasil tidak akan ditampilkan, hasil baru akan ditampilkan apabila kursor berada di atas id hasil.
+
+-Dalam onmouseover juga diselipkan fungsi tampil dan hilang.
+
+-Buat script untuk memasukkan fungsi.
+
+-Beri nama fungsi (untuk pemberian nama bebas) lalu di dalamnya masukkan let a,b,dan c dimana di dalamnya akan dipanggil setiap id yang telah dibuat untuk melakukan proses perhitungan, dalam proses ini menggunakan document.getElementById untuk pemanggilan id yang sebelumnya sudah dibuat.
+
+-Pada id hasil masukkan fungsi hitung yang di dalamnya berisi id a,b,c yang akan dihitungkan.
+
+-Buat function 1 lagi untuk mengaktifkan function mouseover.
+
+Output :
+
+![js out](https://github.com/amandasafii/Praktikum-PWEB1/assets/167949146/bd2b64aa-8f9d-403b-96b4-fdb7f4a75884)
 
 
 
